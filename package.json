@@ -35,7 +35,7 @@
     }
   ],
   "dependencies": {
-    "lodash": "~0.9.1",
+    "lodash": "~0.10.0",
     "mkdirp": "~0.3.4",
     "yamljs": "~0.1.3"
   },
